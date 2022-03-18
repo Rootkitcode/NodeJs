@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "title": "Terminator",
+        "year": "1984",
+        "genres": ["Action", "Sci-Fi"],
+        "ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.2/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "92%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "82/100"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "title": "The Matrix",
+        "year": "1999",
+        "genres": ["Action", "Sci-Fi"],
+        "ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "92%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "82/100"
+            }
+        ]
+    }
+]
